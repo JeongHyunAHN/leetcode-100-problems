@@ -1,3 +1,6 @@
+
+# solved on my own but some cases are not treated
+
 class Solution:
     def maxSubArray(self, nums: list[int]) -> int:
         prev = 0
